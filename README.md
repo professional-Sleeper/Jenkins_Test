@@ -1,2 +1,2 @@
 # Jenkins_Test
-test for jenkins 
+Git Push 트리거를 통한 Jenkins 이관 환경 구성
